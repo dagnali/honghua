@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">红花美图</string>
+
+    <string-array name="tab_short_Title">
+        <item>青纯美女</item>
+        <item>高清美女</item>
+        <item>丝袜美女</item>
+        <item>性感美女</item>
+    </string-array>
+
+    <string-array name="tab_long_Title">
+        <item>头条</item>
+        <item>要闻</item>
+        <item>娱乐</item>
+        <item>体育</item>
+        <item>财经</item>
+        <item>科技</item>
+        <item>时尚</item>
+        <item>视频</item>
+        <item>直播</item>
+    </string-array>
+</resources>

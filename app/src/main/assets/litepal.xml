@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="qianpic" ></dbname>
+    <version value="6" />
+    <list>
+        <mapping class="com.qianpic.db.Img" />
+        <mapping class="com.qianpic.db.Page" />
+        <mapping class="com.qianpic.db.ImgBig" />
+    </list>
+</litepal>
